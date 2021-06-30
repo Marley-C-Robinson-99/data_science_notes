@@ -1,0 +1,1 @@
+This repo will contain notes related to Codeups Data Science program for the Germain cohort.
