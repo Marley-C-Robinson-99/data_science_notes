@@ -1,0 +1,8 @@
+Uniform distributions have equal likelyhoods amont all outcomes, like a fair coin.
+    - For example, rolling a fair die, flipping a coin, fair odds all around
+Binomial distributions are all about determining a binary outcome of an event. 
+    - Success/failure, Correct/Incorrect, True /False
+Normal distributions model a continuous random variable.
+    - Bell Curve
+Poisson distributions a certain amount of events occuring over a time interval
+    - Dealing with time, most likely Poisson.
